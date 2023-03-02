@@ -2,6 +2,8 @@
 
 ## Installing the extension
 
+(Instructions can also be found [here](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked))
+
 Go to the Extensions page by entering chrome://extensions in a new tab. (By design chrome:// URLs are not linkable.)
 
 Alternatively, click on the Extensions menu puzzle button and select Manage Extensions at the bottom of the menu.
