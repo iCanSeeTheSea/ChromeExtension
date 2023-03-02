@@ -1,0 +1,10 @@
+{
+  "name": "YT Embed",
+  "description": "Fullscreen youtube video viewer",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "yt-embed.html",
+    "default_icon": "yt-embed.png"
+  }
+}
