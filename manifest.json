@@ -6,5 +6,6 @@
   "action": {
     "default_popup": "yt-embed.html",
     "default_icon": "yt-embed.png"
-  }
+  },
+  "permissions": ["tabs"]
 }
